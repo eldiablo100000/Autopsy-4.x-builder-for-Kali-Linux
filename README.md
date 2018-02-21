@@ -1,10 +1,12 @@
 # Autopsy-4.x-builder-for-Kali-Linux
+Installation:
 > chmod +x installer.sh
- 
 > ./installer.sh
-...
-At the installation, Autopsy is launched.
 
-To run after installation: ./run.sh
+
+
+To run after installation: 
+>chmod +x run.sh 
+>./run.sh
 
 
